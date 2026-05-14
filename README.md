@@ -1,15 +1,15 @@
 # HackerNews
 
-Simple script to fetch and display Hacker News RSS items.
-The scraper fetch information from the links below, create a folder with today's date in Obsidian, creates a daily digest and save the storied with type prefix for better organization.
+Simple script to fetch and display Hacker News RSS items. \\
+The scraper fetch information from the links below, create a folder with today's date, and in Obsidian. \\
+It then creates a daily digest and save the storied with type prefix for better organization. 
 
-- https://hnrss.org/newest", 
-- "https://hnrss.org/show", 
-- "https://hnrss.org/ask" 
 
 <p align="center">
 <img width="745" height="544" alt="C2_Delay" src="https://github.com/Luke1th/HackerNews/blob/main/Hacker_news.png" />
 </p>
+
+- https://hnrss.org/newest", "https://hnrss.org/show", "https://hnrss.org/ask" 
 
 Prerequisites
 - Python 3.8 or newer
