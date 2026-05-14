@@ -8,7 +8,7 @@ import time
 from pathlib import Path
 
 # Obsidian vault path
-VAULT_PATH = r"C:\Users\lucim\Box\Student_vault"
+VAULT_PATH = r"C:\Users\Obsidian_vault"
 HN_FOLDER = os.path.join(VAULT_PATH, "HackerNews")
 
 # RSS Feed URLs
