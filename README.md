@@ -9,7 +9,11 @@ It then creates a daily digest and save the storied with type prefix for better 
 <img width="745" height="544" alt="C2_Delay" src="https://github.com/Luke1th/HackerNews/blob/main/Hacker_news.png" />
 </p>
 
-- https://hnrss.org/newest", "https://hnrss.org/show", "https://hnrss.org/ask" 
+# RSS Feed URLs
+
+- "https://hnrss.org/newest"
+- "https://hnrss.org/show"
+- "https://hnrss.org/ask" 
 
 Prerequisites
 - Python 3.8 or newer
