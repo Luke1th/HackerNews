@@ -8,7 +8,7 @@ The scraper fetch information from the links below, create a folder with today's
 - "https://hnrss.org/ask" 
 
 <p align="center">
-<img width="745" height="344" alt="C2_Delay" src="https://github.com/Luke1th/HackerNews/blob/main/Hacker_news.png" />
+<img width="545" height="344" alt="C2_Delay" src="https://github.com/Luke1th/HackerNews/blob/main/Hacker_news.png" />
 </p>
 
 Prerequisites
