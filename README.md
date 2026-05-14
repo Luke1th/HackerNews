@@ -5,6 +5,7 @@ Simple script to fetch and display Hacker News RSS items.
 Prerequisites
 - Python 3.8 or newer
 - A virtual environment (recommended)
+- feedparser
 
 Install
 
